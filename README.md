@@ -1,1 +1,1 @@
-# Gold-Price-Forecast-Based-on-LSTM-Model
+# Gold Price Forecast Based on LSTM Model
